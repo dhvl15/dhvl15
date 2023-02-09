@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DHAVAL JARIWALA</h1>
-<h3 align="center">ML enthusiast , Flutter Developer</h3>
+<h3 align="center">Software Engineer | Flutter Developer | ML enthusiast </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykhanolkar7&label=Profile%20views&color=0e75b6&style=flat" alt="dhvl15" /> </p> -->
 
-- I’m currently a Master's student at Northeastern University
+- I’m currently a Master's student at Northeastern University Vancouver
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
