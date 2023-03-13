@@ -35,9 +35,9 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, currenty based in Vancouver, Canada.
-- 👨‍🎓 I’m currently pursuing my Master's in Data Analytics Engineering from Northeastern University
+- 👨‍🎓 I’m currently pursuing my Master's in Data Analytics Engineering from Northeastern University. Actively looking for internship / Co-op opportunities for Summer '23.
 
-- 💻 Two years of experience in full stack app development
+- 💻 As a Software Developer and freelancer, I'm well versed with various technologies and software development tools such as Python, Flask, RESTAPI, HTML, PHP, Flutter (Android/ iOS/ Web), SQL/NoSQL databases and GCP. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/dhavaljariwala15/)
 
