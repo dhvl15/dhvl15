@@ -35,7 +35,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, currenty based in Vancouver, Canada.
-- 👨‍🎓 I’m currently pursuing my Master's in Data Analytics Engineering from Northeastern University. Actively looking for internship / Co-op opportunities for Summer '23.
+- 👨‍🎓 I’m currently pursuing my Master's in Data Analytics Engineering from Northeastern University. 
 
 - 💻 As a Software Developer and freelancer, I'm well versed with various technologies and software development tools such as Python, Flask, RESTAPI, HTML, PHP, Flutter (Android/ iOS/ Web), SQL/NoSQL databases and GCP. 
 
